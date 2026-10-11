@@ -1,0 +1,6 @@
+{
+  "name": "Touch Grass AI - Offline Field & Trail Companion",
+  "description": "Zero-signal open-weight bioacoustic bird identifier, fall foliage runner route generator, and microclimate garden planner designed to get you off screens and outdoors.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
